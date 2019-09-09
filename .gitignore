@@ -1,0 +1,7 @@
+
+# Ignore theee folders
+**/__pycache__/  
+/reference
+
+#ignore the sublime workspace file
+flaskblog.sublime-workspace
