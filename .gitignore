@@ -5,3 +5,8 @@
 
 #ignore the sublime workspace file
 flaskblog.sublime-workspace
+
+#ignore jpg and png image files
+
+*.jpg
+*.png
